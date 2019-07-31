@@ -1,0 +1,9 @@
+echo "# ProBoostrapFramework" >> README.md
+git init
+echo "# ProBoostrapFramework" >> .gitignore
+git add .
+git status
+git commit -m"frase"
+git status
+git remote add origin https://github.com/ivanzeitoun/ProBoostrapFramework.git
+git push -u origin master
